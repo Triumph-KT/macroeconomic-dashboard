@@ -8,8 +8,7 @@ An interactive, research-driven dashboard that models the impact of macroeconomi
 
 Developed by:
 
-- **Triumph Kia Teh** — Quantitative Modeling & Backend (CS + Math)  
-- **Privat Bizabishaka** — Macro Research & Visual Analysis (Economics)
+- **Triumph Kia Teh** — Quantitative Modeling & Backend (CS + Econ + Math)  
 
 For collaboration or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/triumph-kia-teh/) or GitHub.
 
