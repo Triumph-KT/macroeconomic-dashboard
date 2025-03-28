@@ -2,6 +2,8 @@
 
 An interactive, research-driven dashboard that models the impact of macroeconomic indicators on financial asset classes using academic theory, data pipelines, and predictive analytics.
 
+Deployed on Streamlit Cloud : https://macroeconomic-dashboard-by-triumph-kia-teh.streamlit.app/#%F0%9F%94%A2-key-performance-indicators-fred 
+
 ---
 
 ## 👥 Contributors
