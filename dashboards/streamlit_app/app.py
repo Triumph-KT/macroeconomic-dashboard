@@ -192,14 +192,6 @@ if st.sidebar.button("Refresh All Data"):
     st.session_state['fetch_count_today'] += 1
     st.success("All data refreshed! (Ephemeral in this session)")
 
-# ---------- SIDEBAR NAV -----------
-st.sidebar.markdown("### 🔗 Jump to Section")
-st.sidebar.markdown("- [🔢 Key Performance Indicators (FRED)](#🔢-key-performance-indicators-fred)")
-st.sidebar.markdown("- [📈 FRED Macro Indicator Trends](#📈-fred-macro-indicator-trends)")
-st.sidebar.markdown("- [💹 Yahoo Finance Asset Correlation](#💹-yahoo-finance-asset-correlation)")
-st.sidebar.markdown("- [🌍 World Bank Macroeconomic Indicators](#🌍-world-bank-macroeconomic-indicators)")
-st.sidebar.markdown("- [🧠 Correlation Matrix Explorer](#🧠-correlation-matrix-explorer)")
-
 # ===================================================================
 # LOAD EVERYTHING FROM CSV, NOT DB
 # ===================================================================
